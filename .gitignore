@@ -1,0 +1,74 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Editor & IDE Directories
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+*.bak
+
+# Kubernetes Credentials & Local Cluster Files
+*.kubeconfig
+kubeconfig
+kubeconfig.yaml
+.kube/
+minikube/
+.minikube/
+kind-config.local.yaml
+*.cluster.local
+
+# Secrets, Encryption Keys & Credentials
+*.env
+*.env.*
+!.env.example
+*.pem
+*.key
+*.pub
+*.crt
+*.pfx
+*.p12
+*.agekey
+*.sops.keys
+secrets/
+*.decrypted.yaml
+credentials*
+!credentials*.example
+
+# Helm & Charts
+*.tgz
+charts/*/Chart.lock
+.helmignore
+.helm/
+
+# Terraform & Cloud State
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+
+# Temporary, Logs & Diagnostics
+*.log
+logs/
+tmp/
+scratch/
+.system_generated/
+.cache/
+coverage/
+node_modules/
