@@ -11,6 +11,7 @@
   <a href="https://awesome.re"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/awesome.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=awesomelists" /><img alt="awesome" src="https://shieldcn.dev/badge/awesome.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=awesomelists" /></picture></a>
   <a href="https://kubernetes.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Kubernetes-1.28+.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=kubernetes" /><img alt="Kubernetes" src="https://shieldcn.dev/badge/Kubernetes-1.28+.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=kubernetes" /></picture></a>
   <a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/license-MIT.svg?variant=outline&amp;mode=dark&amp;font=geist" /><img alt="license" src="https://shieldcn.dev/badge/license-MIT.svg?variant=outline&amp;mode=light&amp;font=geist" /></picture></a>
+   <a href="https://github.com/bhagirath00/awesome-kubernetes"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/repo/bhagirath00/awesome-kubernetes.svg?variant=outline&amp;mode=dark&amp;font=geist" /><img alt="views" src="https://shieldcn.dev/views/repo/bhagirath00/awesome-kubernetes.svg?variant=outline&amp;mode=light&amp;font=geist" /></picture></a>
 </p>
 
 <p align="center">
